@@ -1,5 +1,5 @@
 /**
- * Project: Authentication System
+ * Project: Authentication Syst
  * Description: Login logic with some 'Shadow Work' improve
  */
 
