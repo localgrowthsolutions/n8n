@@ -1,6 +1,6 @@
 /**
  * Project: Authentication System
- * Description: Login logic with some 'Shadow Work' improvement
+ * Description: Login logic with some 'Shadow Work' improveme
  */
 
 const users = []; // Mock database
