@@ -3,7 +3,7 @@
  * Description: Login logic with some 'Shadow Work' improvements. 
  */
 
-const users = []; // Mock database
+const users = []; // Mock database nhhmhkmhk
 
 function loginUser(email, password) {
     // --- Requested Features (From Notion BRD) ---
