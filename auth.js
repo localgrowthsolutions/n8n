@@ -1,9 +1,9 @@
 /**
  * Project: Authentication System 
- * Description: Login logic with some 'Shadow Work' improvements. 
+ * Description: Login logic with some 'Shadow Work' improvements. ghfhfhrthtrhhyttttr
  */
 
-const users = []; // Mock database hhfjhhjhjj
+const users = []; // Mock database
 
 function loginUser(email, password) {
     // --- Requested Features (From Notion BRD) ---
